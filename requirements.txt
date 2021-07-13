@@ -1,0 +1,1 @@
+opencv-contrib-pythonFlask==0.11.1
